@@ -1,0 +1,58 @@
+{
+  "phrases": [
+    { "id": 1, "de": "Bücher lesen", "pl": "czytać książki", "category": "literatura" },
+    { "id": 2, "de": "ein Buch in die Hand nehmen", "pl": "sięgnąć po książkę / wziąć książkę do ręki", "category": "literatura" },
+    { "id": 3, "de": "Krimis mögen", "pl": "lubić kryminały", "category": "literatura" },
+    { "id": 4, "de": "Fantasybücher mögen", "pl": "lubić książki fantasy", "category": "literatura" },
+    { "id": 5, "de": "Poesie mögen", "pl": "lubić poezję", "category": "literatura" },
+    { "id": 6, "de": "im Buchladen sein", "pl": "być w księgarni", "category": "literatura" },
+    { "id": 7, "de": "eine Neuerscheinung kaufen", "pl": "kupić nowość wydawniczą", "category": "literatura" },
+    { "id": 8, "de": "zum Geburtstag oder zu Weihnachten Bücher bekommen", "pl": "dostać książki na urodziny lub na Boże Narodzenie", "category": "literatura" },
+    { "id": 9, "de": "in der Bibliothek ein Buch leihen", "pl": "wypożyczyć książkę w bibliotece", "category": "literatura" },
+    { "id": 10, "de": "einem Literaturklub angehören", "pl": "należeć do klubu literackiego", "category": "literatura" },
+    { "id": 11, "de": "über einen neuen Roman diskutieren", "pl": "dyskutować o nowej powieści", "category": "literatura" },
+
+    { "id": 12, "de": "ins Theater gehen", "pl": "iść do teatru", "category": "teatr" },
+    { "id": 13, "de": "eine Aufführung sehen", "pl": "oglądać przedstawienie", "category": "teatr" },
+    { "id": 14, "de": "ein Musical sehen", "pl": "oglądać musical", "category": "teatr" },
+    { "id": 15, "de": "einer Theater-Jugendgruppe angehören", "pl": "należeć do młodzieżowej grupy teatralnej", "category": "teatr" },
+    { "id": 16, "de": "gemeinsam proben", "pl": "ćwiczyć razem / próbować wspólnie", "category": "teatr" },
+    { "id": 17, "de": "an einem Workshop teilnehmen", "pl": "brać udział w warsztatach", "category": "teatr" },
+    { "id": 18, "de": "neue Dinge lernen", "pl": "uczyć się nowych rzeczy", "category": "teatr" },
+    { "id": 19, "de": "sich verbessern", "pl": "doskonalić się", "category": "teatr" },
+    { "id": 20, "de": "auf der Bühne auftreten", "pl": "występować na scenie", "category": "teatr" },
+    { "id": 21, "de": "das Publikum begeistern", "pl": "zachwycać publiczność", "category": "teatr" },
+    { "id": 22, "de": "das Straßentheater", "pl": "teatr uliczny", "category": "teatr" },
+
+    { "id": 23, "de": "ins Kino gehen", "pl": "iść do kina", "category": "film" },
+    { "id": 24, "de": "mit Freunden ausgehen", "pl": "wychodzić z przyjaciółmi", "category": "film" },
+    { "id": 25, "de": "ein Kinoticket kaufen", "pl": "kupić bilet do kina", "category": "film" },
+    { "id": 26, "de": "einen neuen Film sehen", "pl": "oglądać nowy film", "category": "film" },
+
+    { "id": 27, "de": "einen Thriller sehen", "pl": "oglądać thriller", "category": "film" },
+    { "id": 28, "de": "einen Horrorfilm sehen", "pl": "oglądać horror", "category": "film" },
+    { "id": 29, "de": "einen Actionfilm sehen", "pl": "oglądać film akcji", "category": "film" },
+    { "id": 30, "de": "einen Abenteuerfilm sehen", "pl": "oglądać film przygodowy", "category": "film" },
+    { "id": 31, "de": "einen Fantasyfilm sehen", "pl": "oglądać film fantasy", "category": "film" },
+    { "id": 32, "de": "einen Gesellschaftsfilm sehen", "pl": "oglądać film społeczny", "category": "film" },
+    { "id": 33, "de": "einen Liebesfilm sehen", "pl": "oglądać film miłosny", "category": "film" },
+    { "id": 34, "de": "ein Drama sehen", "pl": "oglądać dramat", "category": "film" },
+
+    { "id": 35, "de": "die visuellen und akustischen Effekte bewundern", "pl": "podziwiać efekty wizualne i dźwiękowe", "category": "film" },
+    { "id": 36, "de": "zu einem Filmabend einladen", "pl": "zaprosić na wieczór filmowy", "category": "film" },
+    { "id": 37, "de": "eine fesselnde Serie aussuchen", "pl": "wybrać wciągający serial", "category": "film" },
+    { "id": 38, "de": "alle Folgen der ersten Staffel sehen", "pl": "obejrzeć wszystkie odcinki pierwszego sezonu", "category": "film" },
+    { "id": 39, "de": "einen Film zu jeder Zeit schauen", "pl": "oglądać film o każdej porze", "category": "film" },
+    { "id": 40, "de": "das Spiel der Schauspieler bewundern", "pl": "podziwiać grę aktorów", "category": "film" },
+
+    { "id": 41, "de": "ins Konzert gehen", "pl": "iść na koncert", "category": "muzyka" },
+    { "id": 42, "de": "Musik live hören", "pl": "słuchać muzyki na żywo", "category": "muzyka" },
+    { "id": 43, "de": "ein Musical besuchen", "pl": "pójść na musical", "category": "muzyka" },
+    { "id": 44, "de": "die Herzen der Menschen verbinden", "pl": "łączyć serca ludzi", "category": "muzyka" },
+    { "id": 45, "de": "die tolle Stimme des Sängers bewundern", "pl": "podziwiać wspaniały głos śpiewaka", "category": "muzyka" },
+    { "id": 46, "de": "eine unvergessliche Atmosphäre schaffen", "pl": "tworzyć niezapomnianą atmosferę", "category": "muzyka" },
+    { "id": 47, "de": "klassische Musik mögen", "pl": "lubić muzykę klasyczną", "category": "muzyka" },
+    { "id": 48, "de": "seine Lieblingsband hören", "pl": "słuchać swojej ulubionej kapeli", "category": "muzyka" },
+    { "id": 49, "de": "der Komponist komponieren", "pl": "komponować / kompozytor komponuje", "category": "muzyka" }
+  ]
+}
