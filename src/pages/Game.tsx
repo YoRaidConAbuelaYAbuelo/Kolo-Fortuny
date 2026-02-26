@@ -8,11 +8,11 @@ type Phrase = {
   category: string;
 };
 
-const MAX_ATTEMPTS = 10;
+const MAX_ATTEMPTS = 3;
 const GERMAN_CHARS = ["ä", "ö", "ü", "ß"];
 
 const normalize = (text: string) =>
-  text.toLowerCase().trim();
+  text.trim();
 
 const Game = () => {
   const [phrase, setPhrase] = useState<Phrase | null>(null);
@@ -43,7 +43,6 @@ const Game = () => {
 
   if (!phrase) return null;
 
-  // 🔤 Zgadywanie jednej litery
   const handleLetterGuess = () => {
     if (!letterInput) return;
 
@@ -59,7 +58,6 @@ const Game = () => {
     }
   };
 
-  // 🧠 Zgadywanie całego hasła
   const handleFullGuess = () => {
     if (!fullGuess) return;
 
@@ -76,7 +74,6 @@ const Game = () => {
     setFullGuess("");
   };
 
-  // 🇩🇪 Klikanie znaków specjalnych
   const handleGermanCharClick = (char: string) => {
     if (activeInput === "letter") {
       setLetterInput(char);
