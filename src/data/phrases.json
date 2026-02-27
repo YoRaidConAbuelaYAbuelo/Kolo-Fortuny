@@ -34,7 +34,7 @@
     { "id": 29, "de": "einen Actionfilm sehen", "pl": "oglądać film akcji", "category": "film" },
     { "id": 30, "de": "einen Abenteuerfilm sehen", "pl": "oglądać film przygodowy", "category": "film" },
     { "id": 31, "de": "einen Fantasyfilm sehen", "pl": "oglądać film fantasy", "category": "film" },
-    { "id": 32, "de": "einen Gesellschaftsfilm sehen", "pl": "oglądać film społeczny", "category": "film" },
+    { "id": 32, "de": "einen Gesellschaftsfilm sehen", "pl": "oglądać film obyczajowy", "category": "film" },
     { "id": 33, "de": "einen Liebesfilm sehen", "pl": "oglądać film miłosny", "category": "film" },
     { "id": 34, "de": "ein Drama sehen", "pl": "oglądać dramat", "category": "film" },
 
@@ -53,6 +53,6 @@
     { "id": 46, "de": "eine unvergessliche Atmosphäre schaffen", "pl": "tworzyć niezapomnianą atmosferę", "category": "muzyka" },
     { "id": 47, "de": "klassische Musik mögen", "pl": "lubić muzykę klasyczną", "category": "muzyka" },
     { "id": 48, "de": "seine Lieblingsband hören", "pl": "słuchać swojej ulubionej kapeli", "category": "muzyka" },
-    { "id": 49, "de": "der Komponist komponieren", "pl": "komponować / kompozytor komponuje", "category": "muzyka" }
+    { "id": 49, "de": "der Komponist", "pl": "Kompozytor", "category": "muzyka" }
   ]
 }
