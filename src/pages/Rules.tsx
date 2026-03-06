@@ -7,8 +7,8 @@ const Rules = () => {
   <div className="app-container">
     <h2>Zasady gry</h2>
     <ul style={{ listStyle: "none", marginBottom: "20px" }}>
-      <li>Masz 10 prób na odgadnięcie słowa.</li>
-      <li>Wpisujesz jedną literę naraz.</li>
+      <li>Masz 3 próby na odgadnięcie słowa.</li>
+      <li>Wpisujesz jedną literę naraz, lub cały zwrot.</li>
       <li>Jeśli litera jest poprawna — pojawia się w słowie.</li>
       <li>Jeśli nie — tracisz próbę.</li>
     </ul>
