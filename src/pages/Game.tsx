@@ -46,7 +46,7 @@ const Game = () => {
   const handleLetterGuess = () => {
     if (!letterInput) return;
 
-    const letter = normalize(letterInput);
+    const letter =(letterInput);
     setLetterInput("");
 
     if (guessedLetters.includes(letter)) return;
